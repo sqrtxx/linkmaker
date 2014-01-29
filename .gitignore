@@ -1,0 +1,11 @@
+# Ignore Emacs backup files.
+*~
+*#
+.#*
+.project
+.DS_Store
+.idea
+.secret
+
+icon.xcf
+640x400.jpg
